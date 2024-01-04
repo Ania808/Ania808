@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ania808
+- 👀 I’m interested in work trial
+- 🌱 I’m currently learning ReactJS, TypeScript, threeJS
+- 💞️ I’m looking to collaborate on ReactJS
+- 📫 My contacts: hhorunann@gmail.com
